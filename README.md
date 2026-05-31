@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/-Karim%20Shoair-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=1f1f1f&color=1f1f1f">
   </a>
   <a href="https://t.me/D4Vinci_0x">
-    <img src="https://img.shields.io/badge/D4Vinci__0x-0078D4?style=for-the-badge&logo=Telegram&logoColor=00AEFF&labelColor=1f1f1f&color=1f1f1f">
   </a>
   <a href="https://medium.com/@d4vinci">
     <img src="https://img.shields.io/badge/d4vinci-0078D4?style=for-the-badge&logo=Medium&logoColor=00AEFF&labelColor=1f1f1f&color=1f1f1f">
